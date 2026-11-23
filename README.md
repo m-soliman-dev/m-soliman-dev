@@ -1,6 +1,6 @@
 # Hi, I'm Mohamed Soliman
 
-First-year Computer Science student from Egypt. I learn by building real
+Computer science student from Egypt. I learn by building real
 things: command-line tools, small business programs and clean websites.
 Every project here runs, is tested, and is documented so you can try it
 yourself.
