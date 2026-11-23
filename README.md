@@ -34,5 +34,7 @@ yourself.
 
 ## Get in touch
 
-The fastest way to reach me is right here on GitHub:
+The fastest way to reach me is email:
+[hhnj82226@gmail.com](mailto:hhnj82226@gmail.com).
+You can also find me here on GitHub:
 [@m-soliman-dev](https://github.com/m-soliman-dev)
